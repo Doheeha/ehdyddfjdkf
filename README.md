@@ -8,9 +8,9 @@
   <meta property="og:url" content="https://www.ehdyd.co.kr/news/2411301830">
   <meta property="og:title" content="한국문학번역원, 로스트 아크와 콜라보 이벤트 개최">
   <meta property="og:type" content="website">
-  <meta property="og:image" content="공유시 보여질 이미지 경로">
+  <meta property="og:image" content="mokoko">
 
-    <title>NEWS</title>
+    <title>ehdydNEWS</title>
     <style>
 
         p {
@@ -34,7 +34,7 @@
 </header>
 
  
-    <img src="[C:\Users\도희\Desktop\모모.jpg](https://github.com/Doheeha/ehdyd/blob/main/%EB%AA%A8%EB%AA%A8.jpg)" alt="이벤트 포스터" >
+    <img src="모모.jpg" alt="이벤트 포스터" >
     <p>【뉴스퀘스트=정강 기자】 2024년 11월 29일부터 30일까지, 한국문학번역원은 인기 MMORPG '로스트 아크'와 협력하여 특별한 이벤트를 진행한다. 이번 콜라보는 한국 문학과 게임의 만남을 통해 새로운 문화를 창출하고, 발굴 기회를 제공하기 위해 마련됐다.
 </p>
     <p>이틀간 진행되는 이번 행사에서는 게임 팬들과 문학 애호가들이 함께할 수 있는 다양한 프로그램이 준비되어 있다. 특히, 로스트 아크의 인기 캐릭터인 ‘모코코’를 직접 만날 수 있는 기회도 제공된다. 모코코는 귀여운 외모와 매력으로 많은 사랑을 받고 있는 캐릭터로, 팬들과의 소통을 통해 특별한 순간을 공유할 예정이다.</p>
