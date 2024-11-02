@@ -26,7 +26,7 @@
 <body>
 
 <header>
-    <h1 align = "center">[ 한국문학번역원, 로스트 아크와 콜라보 이벤트 개최 ]</h1>
+    <h1 align = "center">[ 한문학번역원, 로스트 아크와 콜라보 이벤트 개최 ]</h1>
 
      <p align = "right"> 정강 기자 · fkdlarkd@hamail </p>
    <h3>노벨문학상 '한강' 작가를 알린 한국문학번역원, 문학과 게임의 융합을 꿈꾸다.</h3>
